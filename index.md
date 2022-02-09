@@ -1,4 +1,4 @@
-## Welcome to Overseek.net
+##Welcome to Overseek.net
 ###About us:
 
 We provide full-scale web applications engineering services to deliver future-oriented and quality-driven products and solutions that are not only market disruptive but user-centric as well.
@@ -48,7 +48,7 @@ Get the freedom you need to work at your best – with plenty of time for what m
 - Remote work friendly
 - Exposure to brand new emerging technologies
 - Brand new laptop
-- Ergoliv standing desk (https://ergoliv.com/shop/)
+- [Ergoliv standing desk](https://ergoliv.com/shop/)
 
 
 
@@ -82,11 +82,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://ergoliv.com/shop/) and ![Image](./assets/images/overseek-logo_white.svg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
+![Image](./assets/images/overseek-logo_white.svg )
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/walhallyus/overseek.net/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
