@@ -1,10 +1,5 @@
----
-layout: default
----
 
-
-## Welcome to Overseek.net
-### About us:
+## About us:
 
 We provide full-scale web applications engineering services to deliver future-oriented and quality-driven products and solutions that are not only market disruptive but user-centric as well.
 Accelerating innovation using the latest cutting-edge technology, we’re solving complex challenges and engineering products made to suit each enterprise ecosystem.
