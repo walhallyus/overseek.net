@@ -1,11 +1,11 @@
 <!doctype html>
-<html lang="{{ site.lang | default: " en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     {% seo %}
-    <link rel="stylesheet" href="{{ '/overseek.net/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js"
             integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
@@ -26,7 +26,7 @@
     <section>
         <div id="title">
 
-            <img src="/assets/images/overseek-logo_white.svg" width="150" height="auto"/>
+            <img src="/overseek.net/assets/images/overseek-logo_white.svg" width="150" height="auto"/>
 
             <p>{{ site.description | default: site.github.project_tagline }}</p>
             <hr>
