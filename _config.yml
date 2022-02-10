@@ -1,5 +1,6 @@
-theme: jekyll-theme-midnight
 title: [Overseek.net]
 show_downloads: [false]
 google_analytics: [UA-128257079-1]
-
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-remote-theme
