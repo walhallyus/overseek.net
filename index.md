@@ -3,13 +3,13 @@ layout: default
 ---
 
 
-##Welcome to Overseek.net
-###About us:
+## Welcome to Overseek.net
+### About us:
 
 We provide full-scale web applications engineering services to deliver future-oriented and quality-driven products and solutions that are not only market disruptive but user-centric as well.
 Accelerating innovation using the latest cutting-edge technology, we’re solving complex challenges and engineering products made to suit each enterprise ecosystem.
 
-###We are using
+### We are using
 
 TypeScript, ReactJS, Node.js, Next.js, NestJS, GraphQL, Apollo
 Microservice Architecture Patterns, Docker, Gitlab CI/CD, Magento 2
@@ -17,7 +17,7 @@ Microservice Architecture Patterns, Docker, Gitlab CI/CD, Magento 2
 
 ## We are hiring
 
-###About this job
+### About this job
 ```markdown
 
 Job type: 		Full-time
@@ -28,7 +28,7 @@ Location: 		Oradea, Bihor
 E-mail: 		info@overseek.net
 ```
 
-###Job description
+### Job description
 
 We're looking for an awesome Full Stack Developer to join our team and work with us on bringing online, an evidence-based Social and Emotional learning (SEL) program used in schools worldwide. This project is part of the Educational Technology (EduTech) field and working on it you will take part in the innovations that we will bring to the industry using machine learning and modern web technologies. You'll be working on a microservices designed infrastructure based on Apollo GraphQL, NextJs, NestJs, TypeORM and other cool frameworks.
 
@@ -36,10 +36,10 @@ Our development team advocates for the software craftsmanship approach that emph
 
 It’s important to understand that we value the balance between quality of work and business and if this is one of your beliefs, feel free to apply to this job or message us if you need more details.
 
-###About the client
+### About the client
 Positive Action is an educational program that is used worldwide in a variety of settings from traditional school settings to counseling programs. It is a market leader for Social and Emotional Learning materials. Designed to create a positive learning environment for students, Positive Action has enabled thousands of organizations to cultivate an intrinsic interest in learning. The Company has a close-knit team developing a highly specialized content delivery platform that will be localized in multiple languages.
 
-###Benefits
+### Benefits
 
 At Overseek, we’re always investing in a work-life balance and body-mind health. We want our employees to love it here.
 
